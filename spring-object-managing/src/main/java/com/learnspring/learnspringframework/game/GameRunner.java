@@ -1,7 +1,9 @@
-package com.learnspring.learnspringboot.game;
+package com.learnspring.learnspringframework.game;
 
-import com.learnspring.learnspringboot.GamingConsole;
+import com.learnspring.learnspringframework.GamingConsole;
+import org.springframework.stereotype.Component;
 
+@Component
 public class GameRunner {
     private final GamingConsole game;
     public GameRunner(GamingConsole game) {

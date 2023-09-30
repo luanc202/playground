@@ -1,6 +1,6 @@
-package com.learnspring.learnspringboot.game;
+package com.learnspring.learnspringframework.game;
 
-import com.learnspring.learnspringboot.GamingConsole;
+import com.learnspring.learnspringframework.GamingConsole;
 
 public class MarioGame implements GamingConsole {
 

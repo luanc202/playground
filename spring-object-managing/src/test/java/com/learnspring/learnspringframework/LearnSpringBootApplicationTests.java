@@ -1,4 +1,4 @@
-package com.learnspring.learnspringboot;
+package com.learnspring.learnspringframework;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,7 +1,9 @@
-package com.learnspring.learnspringboot.game;
+package com.learnspring.learnspringframework.game;
 
-import com.learnspring.learnspringboot.GamingConsole;
+import com.learnspring.learnspringframework.GamingConsole;
+import org.springframework.stereotype.Component;
 
+@Component
 public class PacmanGame implements GamingConsole {
 
     public void up() {
