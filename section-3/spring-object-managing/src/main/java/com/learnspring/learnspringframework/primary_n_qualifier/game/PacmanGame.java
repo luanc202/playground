@@ -1,6 +1,6 @@
-package com.learnspring.learnspringframework.game;
+package com.learnspring.learnspringframework.primary_n_qualifier.game;
 
-import com.learnspring.learnspringframework.GamingConsole;
+import com.learnspring.learnspringframework.primary_n_qualifier.GamingConsole;
 import org.springframework.stereotype.Component;
 
 @Component

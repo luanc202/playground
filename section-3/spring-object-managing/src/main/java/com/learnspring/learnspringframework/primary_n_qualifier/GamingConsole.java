@@ -1,4 +1,4 @@
-package com.learnspring.learnspringframework;
+package com.learnspring.learnspringframework.primary_n_qualifier;
 
 public interface GamingConsole {
     public void up();
