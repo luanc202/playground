@@ -75,3 +75,9 @@ This is a feature of Spring that allows it to scan the packages for classes that
 ### Dependency Injection
 
 This is a feature of Spring that allows it to inject dependencies into a class. This is done by marking the class with the `@Autowired` annotation. Spring will then look for a class that implements the interface of the dependency and inject it into the class.
+
+## @Component vs. @Bean
+| Syntax      | @Component | @Bean     |
+    | :---        |    :---   |          :--- |
+    | Header      | Can by used in any Java class       | Generally used on methods in Spring Configuration classes   |
+    | Paragraph   | Text        | And more      |
