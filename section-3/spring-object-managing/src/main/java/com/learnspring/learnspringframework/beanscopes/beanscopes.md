@@ -1,4 +1,3 @@
- 
 # What did I learn this class?
 
 ### Bean Scopes
@@ -28,3 +27,13 @@ class PrototypeClass {
 }
   ```
 </details>
+
+## Prototype vs. Singleton Bean Scope
+| Heading              | Prototype                                                | Singleton                                                          |
+|----------------------|----------------------------------------------------------|--------------------------------------------------------------------|
+| Instances            | Possibly many instances per IoC Spring Container         | One per IoC Spring Container                                       |
+| Beans                | New bean instance created every time Bean is referred to | Same bean instance used                                            |
+| Default              | NOT Default                                              | Default                                                            |
+| Code Snipper         | @Scope(value = ConfigurableBeanFactory.SCOPE_PROTOTYPE)  | @Scope(value = ConfigurableBeanFactory.SCOPE_SINGLETON) or Default |
+| Usage                | Rarely                                                   | Very frequently                                                    |
+| Recommended Scenario | Stateful beans                                           | Stateless beans                                                    |
