@@ -8,6 +8,7 @@
 
 <details>
   <summary>Code</summary>
+    
   ```java
   @Autowired
     public BusinessClass(Dependecy1 dependecy1, Dependecy2 dependecy2) {

@@ -6,6 +6,7 @@
 
 <details>
   <summary>Code</summary>
+    
   ```java
 @Component
 class ClassA {}
@@ -22,6 +23,7 @@ class ClassB {
     }
 }
   ```
+
 </details>
 
 ## Comparison with Eager initialization

@@ -17,6 +17,7 @@ Differently from Java Singleton (GOF), Spring Singletons creates one instance pe
 
 <details>
   <summary>Code</summary>
+    
   ```java
 @Component
 class NormalClass {
@@ -26,6 +27,7 @@ class NormalClass {
 class PrototypeClass {
 }
   ```
+
 </details>
 
 ## Prototype vs. Singleton Bean Scope
