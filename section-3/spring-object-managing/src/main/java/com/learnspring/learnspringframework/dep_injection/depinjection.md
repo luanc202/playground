@@ -2,7 +2,7 @@
 
  There are three ways to use dependecy injection in Spring
 
- ### 1. Constructor Injection (Recommended)
+### 1. Constructor Injection (Recommended)
 
  In this example, the dependecies are injected in the constructor of the class. This is recommended by the Spring team.
 
@@ -19,7 +19,7 @@
   ```
 </details>
 
-###  2. Setter Injection
+### 2. Setter Injection
 In this example, the dependecies are injected in the setters of the class.
 
 <details>
@@ -40,7 +40,7 @@ In this example, the dependecies are injected in the setters of the class.
 ```
 </details>
 
-### 1. Field Injection
+### 3. Field Injection
 
 In this example, the dependecies are injected in the fields of the class.
 
@@ -55,8 +55,6 @@ In this example, the dependecies are injected in the fields of the class.
     private Dependecy2 dependecy2;
 ```
 </details>
-
-
 
 ## Important Terminology
 
