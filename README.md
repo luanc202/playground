@@ -13,4 +13,8 @@ This is open to pull requests, but I'm not sure why you would want to do that. M
   
   [Java Spring Basics](./java/README.md)
 </details>
-
+<details>
+  <summary>Leetcode Problems</summary>
+  
+  [Leetcode problems list](./leetcode/README.md)
+</details>
