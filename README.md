@@ -11,10 +11,10 @@ This is open to pull requests, but I'm not sure why you would want to do that. M
 <details>
   <summary>Java</summary>
   
-  [Java Spring Basics](./java/README.md)
+  [Java Spring Basics](./java/)
 </details>
 <details>
   <summary>Leetcode Problems</summary>
   
-  [Leetcode problems list](./leetcode/README.md)
+  [Leetcode problems list](./leetcode/)
 </details>
