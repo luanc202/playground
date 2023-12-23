@@ -2,10 +2,12 @@
 
 ### Check out my [Leetcode profile](https://leetcode.com/luanpkg/)
 
-<details>
-  <summary><a href="https://leetcode.com/problems/two-sum/">Two Sum</a></summary>
+#### [Two Sum](https://leetcode.com/problems/two-sum/)
   
-  [Go (Golang)](./TwoSum/TwoSum.go)
+  - [Go (Golang)](./TwoSum/TwoSum.go)
   
-  [Ruby](./TwoSum/TwoSum.rb)
-</details>
+  - [Ruby](./TwoSum/TwoSum.rb)
+
+#### [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+
+  - [Go (Golang)](./PalindromeNumber/PalindromeNumber.go)
