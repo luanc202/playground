@@ -9,14 +9,15 @@ I may skip some content I already familiar with, so you may notice gaps between 
 <details>
   <summary>Java Spring Basics</summary>
 
-  [Object managing with beans and dependency injection](./section-3/spring-object-managing/src/main/java/com/learnspring/learnspringframework/dep_injection/depinjection.md)
 
-  [Bean scopes](./section-3/spring-object-managing/src/main/java/com/learnspring/learnspringframework/beanscopes/beanscopes.md)
+  1. [PrePost Annocations](./section-3/spring-object-managing/src/main/java/com/learnspring/learnspringframework/prepostannotations/prepost.md)
 
-  [Lazy initialization](./section-3/spring-object-managing/src/main/java/com/learnspring/learnspringframework/lazyinitialization/lazyinitialization.md)
+  2. [Primary and Qualifiers](./section-3/spring-object-managing/src/main/java/com/learnspring/learnspringframework/prepostannotations/prepost.md)
 
-  [PrePost Annocations](./section-3/spring-object-managing/src/main/java/com/learnspring/learnspringframework/prepostannotations/prepost.md)
+  3. [Lazy initialization](./section-3/spring-object-managing/src/main/java/com/learnspring/learnspringframework/lazyinitialization/lazyinitialization.md)
 
-  [Primary and Qualifiers](./section-3/spring-object-managing/src/main/java/com/learnspring/learnspringframework/prepostannotations/prepost.md)
+  4. [Bean scopes](./section-3/spring-object-managing/src/main/java/com/learnspring/learnspringframework/beanscopes/beanscopes.md)
+  
+  5. [Object managing with beans and dependency injection](./section-3/spring-object-managing/src/main/java/com/learnspring/learnspringframework/dep_injection/depinjection.md)
 
 </details>
